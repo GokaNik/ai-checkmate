@@ -3,4 +3,4 @@ openai==1.23.1
 pdfplumber==0.11.0
 pytesseract==0.3.10
 python-docx==1.1.0
-pillow==10.3.0
+pillow==10.2.0
